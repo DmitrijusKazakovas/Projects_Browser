@@ -1,0 +1,28 @@
+.all_tables {
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.teachers{
+    padding: 20px;
+    margin-right: auto;
+    background-color: chartreuse;
+}
+.projects{
+    padding: 20px;
+    margin-left: auto;
+    background-color: lightblue;
+}
+.final_res{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: tomato;
+}
+th {
+    padding-right: 30px;
+}
+
